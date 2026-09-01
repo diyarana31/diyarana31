@@ -1,13 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Diya%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Generative%20AI%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header&text=Diya%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Enthusiast;Generative+AI+%26+RAG+Builder;Turning+Data+into+Intelligent+Systems" alt="Typing SVG"/></a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/diya-rana"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/diyarana31"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ## About Me
 
@@ -15,14 +20,14 @@
 - Focused on **Data Science, Machine Learning, and Generative AI** — working with LLMs, RAG pipelines, vector search, and multi-agent systems to build data-driven, context-aware applications
 - Reach me at **diyarana.work@gmail.com**
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ## Experience
 
 **AI Consultant Trainee** · EMB Global India
 > Contributed to **8+ client engagements** across manufacturing, renewable energy, and digital transformation — designing LLM, cloud, and database architectures, building client prototypes, and architecting a full AI Training-as-a-Service playbook from the ground up.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ## Tech Stack
 
@@ -52,7 +57,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ## Featured Projects
 
@@ -94,6 +99,8 @@ Full-stack SaaS event management platform with RBAC, real-time updates via Socke
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 <br>
 
