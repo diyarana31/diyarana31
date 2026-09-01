@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header&text=Diya%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;LLM+%26+RAG+Systems+Architect;Building+Production-Grade+GenAI+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;AI+Consulting+%26+LLM+Architecture;Building+GenAI+Applications" alt="Typing SVG"/>
 
 <br><br>
 
@@ -15,7 +15,8 @@
 
 ## About Me
 
-- AI/ML engineer specializing in **Generative AI, LLM system design, and applied Machine Learning** — building production-grade RAG pipelines, multi-agent systems, and context-aware retrieval infrastructure
+- AI/ML engineer specializing in **Generative AI, LLM system design, and applied Machine Learning** — building RAG pipelines, multi-agent systems, and context-aware retrieval infrastructure
+- Experienced in **AI consulting** — translating client requirements into LLM, cloud, and database architectures across multiple industry engagements
 - B.Tech. in Computer Science & Engineering — Full Stack AI, UPES, Dehradun (**CGPA: 8.0/10**)
 - Contact: **diyarana.work@gmail.com**
 
