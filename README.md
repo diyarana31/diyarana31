@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header&text=Diya%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&duration=1&pause=100000&color=6366F1&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Diya+Rana" alt="Diya Rana"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Enthusiast;Generative+AI+%26+RAG+Builder;Turning+Data+into+Intelligent+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Engineer;Generative+AI+%26+RAG+Systems;Building+Data-Driven+Intelligent+Applications" alt="Typing SVG"/>
 
 <br><br>
 
@@ -21,6 +19,13 @@
 - B.Tech. in Computer Science & Engineering — Full Stack AI, at UPES, Dehradun (**CGPA: 8.0/10**)
 - Focused on **Data Science, Machine Learning, and Generative AI** — working with LLMs, RAG pipelines, vector search, and multi-agent systems to build data-driven, context-aware applications
 - Reach me at **diyarana.work@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
+
+## Experience
+
+**AI Consultant Trainee** · EMB Global India
+> Contributed to **8+ client engagements** across manufacturing, renewable energy, and digital transformation — designing LLM, cloud, and database architectures, building client prototypes, and architecting a full AI Training-as-a-Service playbook from the ground up.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
@@ -94,6 +99,7 @@ Full-stack SaaS event management platform with RBAC, real-time updates via Socke
 </td>
 </tr>
 </table>
+
 <br>
 
 <div align="center">
