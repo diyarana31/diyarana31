@@ -7,8 +7,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/diya-rana"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/diyarana31"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/diyarana.work%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
@@ -19,14 +18,6 @@
 - AI/ML engineer specializing in **Generative AI, LLM system design, and applied Machine Learning** — building production-grade RAG pipelines, multi-agent systems, and context-aware retrieval infrastructure
 - B.Tech. in Computer Science & Engineering — Full Stack AI, UPES, Dehradun (**CGPA: 8.0/10**)
 - Contact: **diyarana.work@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
-
-## Experience
-
-**AI Consultant Trainee** · EMB Global India
-
-> Owned end-to-end LLM and cloud solution architecture across **8+ client engagements** in manufacturing, renewable energy, and digital transformation — translating business requirements into system architectures spanning LLMs, cloud infrastructure, and databases. Built client-facing prototypes and technical solution decks that drove engagement decisions, and independently architected the company's **AI Training-as-a-Service playbook**, structuring curriculum, technical content, and delivery methodology into a scalable, deployment-ready framework.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
@@ -66,37 +57,41 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=4&width=100%" width="100%"/>
 
-**Evidentia**
+### Evidentia
 Architected a retrieval-augmented generation platform for querying complex, unstructured documents — combining OCR, embeddings, and semantic retrieval to deliver context-grounded, hallucination-resistant responses.
-<br><br>
-`LangChain` `ChromaDB` `PaddleOCR` `RAG`
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square"> <img src="https://img.shields.io/badge/PaddleOCR-8B5CF6?style=flat-square"> <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square">
 
 </td>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=4&width=100%" width="100%"/>
 
-**VeriFy.AI**
+### VeriFy.AI
 Built a multimodal fake-news detection system fusing textual and visual signals into a unified ML pipeline, improving credibility assessment of online content beyond single-modality approaches.
-<br><br>
-`Python` `NLP` `Computer Vision` `ML`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square"> <img src="https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=flat-square"> <img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square">
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=4&width=100%" width="100%"/>
 
-**AI Resume Analyzer**
+### AI Resume Analyzer
 Engineered an NLP-driven resume evaluation system that benchmarks candidates against job requirements, automating keyword extraction, gap analysis, and optimization recommendations.
-<br><br>
-`Python` `NLP` `Machine Learning`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square"> <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square">
 
 </td>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=4&width=100%" width="100%"/>
 
-**EventCraft**
+### EventCraft
 Shipped a full-stack SaaS event management platform with role-based access control and real-time coordination via Socket.IO and Google Calendar sync — **improved attendee engagement efficiency by 35%** and cut event-planning overhead by 30%.
-<br><br>
-`MERN` `Socket.IO` `REST APIs`
+
+<img src="https://img.shields.io/badge/MERN-6366F1?style=flat-square"> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square">
 
 </td>
 </tr>
