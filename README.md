@@ -13,7 +13,7 @@
 
 ### About Me
 
-- B.Tech. (Hons.) in Computer Science & Engineering — Full Stack AI, at UPES, Dehradun (CGPA: 8.0/10)
+- B.Tech. in Computer Science & Engineering — Full Stack AI, at UPES, Dehradun (CGPA: 8.0/10)
 - Focused on **Data Science, Machine Learning, and Generative AI** — working with LLMs, RAG pipelines, vector search, and multi-agent systems to build data-driven, context-aware applications
 - Reach me at **diyarana.work@gmail.com**
 
