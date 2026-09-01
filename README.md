@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header&text=Diya%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Engineer;Generative+AI+%26+RAG+Systems;Building+Data-Driven+Intelligent+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;LLM+%26+RAG+Systems+Architect;Building+Production-Grade+GenAI+Applications" alt="Typing SVG"/>
 
 <br><br>
 
@@ -16,16 +16,17 @@
 
 ## About Me
 
-- B.Tech. in Computer Science & Engineering — Full Stack AI, at UPES, Dehradun (**CGPA: 8.0/10**)
-- Focused on **Data Science, Machine Learning, and Generative AI** — working with LLMs, RAG pipelines, vector search, and multi-agent systems to build data-driven, context-aware applications
-- Reach me at **diyarana.work@gmail.com**
+- AI/ML engineer specializing in **Generative AI, LLM system design, and applied Machine Learning** — building production-grade RAG pipelines, multi-agent systems, and context-aware retrieval infrastructure
+- B.Tech. in Computer Science & Engineering — Full Stack AI, UPES, Dehradun (**CGPA: 8.0/10**)
+- Contact: **diyarana.work@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
 ## Experience
 
 **AI Consultant Trainee** · EMB Global India
-> Contributed to **8+ client engagements** across manufacturing, renewable energy, and digital transformation — designing LLM, cloud, and database architectures, building client prototypes, and architecting a full AI Training-as-a-Service playbook from the ground up.
+
+> Owned end-to-end LLM and cloud solution architecture across **8+ client engagements** in manufacturing, renewable energy, and digital transformation — translating business requirements into system architectures spanning LLMs, cloud infrastructure, and databases. Built client-facing prototypes and technical solution decks that drove engagement decisions, and independently architected the company's **AI Training-as-a-Service playbook**, structuring curriculum, technical content, and delivery methodology into a scalable, deployment-ready framework.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%" width="100%"/>
 
@@ -46,6 +47,7 @@
 <img src="https://img.shields.io/badge/RAG%20%26%20Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/Vector%20Search-4B8BBE?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge">
 </p>
 
 <p>
@@ -66,7 +68,7 @@
 <td width="50%" valign="top">
 
 **Evidentia**
-RAG-based platform for processing and querying complex documents using OCR, embeddings, and semantic retrieval — turning unstructured files into searchable, context-grounded knowledge.
+Architected a retrieval-augmented generation platform for querying complex, unstructured documents — combining OCR, embeddings, and semantic retrieval to deliver context-grounded, hallucination-resistant responses.
 <br><br>
 `LangChain` `ChromaDB` `PaddleOCR` `RAG`
 
@@ -74,7 +76,7 @@ RAG-based platform for processing and querying complex documents using OCR, embe
 <td width="50%" valign="top">
 
 **VeriFy.AI**
-Multimodal fake-news detection system combining textual and visual signals to assess the credibility of online content.
+Built a multimodal fake-news detection system fusing textual and visual signals into a unified ML pipeline, improving credibility assessment of online content beyond single-modality approaches.
 <br><br>
 `Python` `NLP` `Computer Vision` `ML`
 
@@ -84,7 +86,7 @@ Multimodal fake-news detection system combining textual and visual signals to as
 <td width="50%" valign="top">
 
 **AI Resume Analyzer**
-NLP-powered system that evaluates resumes against job requirements, automating keyword analysis and screening recommendations.
+Engineered an NLP-driven resume evaluation system that benchmarks candidates against job requirements, automating keyword extraction, gap analysis, and optimization recommendations.
 <br><br>
 `Python` `NLP` `Machine Learning`
 
@@ -92,7 +94,7 @@ NLP-powered system that evaluates resumes against job requirements, automating k
 <td width="50%" valign="top">
 
 **EventCraft**
-Full-stack SaaS event management platform with RBAC, real-time updates via Socket.IO, and Google Calendar sync — improved coordination efficiency by 35%.
+Shipped a full-stack SaaS event management platform with role-based access control and real-time coordination via Socket.IO and Google Calendar sync — **improved attendee engagement efficiency by 35%** and cut event-planning overhead by 30%.
 <br><br>
 `MERN` `Socket.IO` `REST APIs`
 
