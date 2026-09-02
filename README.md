@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/diya-rana"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/diyarana.work%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:diyarana.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
